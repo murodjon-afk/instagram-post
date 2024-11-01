@@ -6,16 +6,13 @@ import { reload } from "./libs.js/utils.js";
 
 
 
-
-fetch("https://jsonplaceholder.typicode.com/users")
-
+fetch("http://localhost:3001/stories")
 .then((response) => response.json())
-.then((data) => reload(data , document.querySelector('.users') , Story))
+.then((data) => reload(data , document.querySelector('.users') , Story ))
 
 
-fetch("https://jsonplaceholder.typicode.com/posts")
-
-.then((response) => response.json())
-.then((data) => reload(data , document.querySelector('.users-post') , postUser))
+fetch("http://localhost:3001/posts")
+.then((response) => response.json() )
+.then((data) => reload(data , document.querySelector('.users-post') , postUser ))
 
 

@@ -1,0 +1,170 @@
+{
+    "stories": [
+        {
+            "id": "fk42",
+            "userName": "alex02",
+            "avatarUrl": "https://media.istockphoto.com/id/102716889/photo/side-view-of-maine-coon-sitting-and-looking-away.jpg?s=612x612&w=0&k=20&c=VdLZVNNZ2Xa2hNwxJ4rfGQHyTbdg5pcpM4FqUy8sawQ=",
+            "image": "image1",
+            "status": false
+        },
+        {
+            "id": "jk83",
+            "userName": "maria_sky",
+            "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_YslxjZc0j7wmiXw44hVIIvVZLccGv9yB2g&s",
+            "image": "image2",
+            "status": true
+        },
+        {
+            "id": "lm95",
+            "userName": "john_doe",
+            "avatarUrl": "https://media.istockphoto.com/id/102716889/photo/side-view-of-maine-coon-sitting-and-looking-away.jpg?s=612x612&w=0&k=20&c=VdLZVNNZ2Xa2hNwxJ4rfGQHyTbdg5pcpM4FqUy8sawQ=",
+            "image": "image3",
+            "status": false
+        },
+        {
+            "id": "op76",
+            "userName": "luna_star",
+            "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtkTgmFyhFMHLBJ9gt8bry8UUlyah_TSTluQ&s",
+            "image": "image4",
+            "status": true
+        },
+        {
+            "id": "qr88",
+            "userName": "sammy123",
+            "avatarUrl": "https://media.istockphoto.com/id/102716889/photo/side-view-of-maine-coon-sitting-and-looking-away.jpg?s=612x612&w=0&k=20&c=VdLZVNNZ2Xa2hNwxJ4rfGQHyTbdg5pcpM4FqUy8sawQ=",
+            "image": "image5",
+            "status": false
+        },
+        {
+            "id": "tu12",
+            "userName": "blue_fox",
+            "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_YslxjZc0j7wmiXw44hVIIvVZLccGv9yB2g&s",
+            "image": "image6",
+            "status": true
+        },
+        {
+            "id": "vw34",
+            "userName": "sunshine_girl",
+            "avatarUrl": "https://media.istockphoto.com/id/102716889/photo/side-view-of-maine-coon-sitting-and-looking-away.jpg?s=612x612&w=0&k=20&c=VdLZVNNZ2Xa2hNwxJ4rfGQHyTbdg5pcpM4FqUy8sawQ=",
+            "image": "image7",
+            "status": false
+        },
+        {
+            "id": "xy56",
+            "userName": "cool_kid",
+            "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_YslxjZc0j7wmiXw44hVIIvVZLccGv9yB2g&s",
+            "image": "image8",
+            "status": true
+        },
+        {
+            "id": "za78",
+            "userName": "happy_bean",
+            "avatarUrl": "https://media.istockphoto.com/id/102716889/photo/side-view-of-maine-coon-sitting-and-looking-away.jpg?s=612x612&w=0&k=20&c=VdLZVNNZ2Xa2hNwxJ4rfGQHyTbdg5pcpM4FqUy8sawQ=",
+            "image": "image9",
+            "status": false
+        },
+        {
+            "id": "bc90",
+            "userName": "starry_night",
+            "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtkTgmFyhFMHLBJ9gt8bry8UUlyah_TSTluQ&s",
+            "image": "image10",
+            "status": true
+        }
+    ] ,
+    "posts": [
+    {
+        "id": "dew2",
+        "userName": "alex02",
+        "avatarUrl": "https://media.istockphoto.com/id/102716889/photo/side-view-of-maine-coon-sitting-and-looking-away.jpg?s=612x612&w=0&k=20&c=VdLZVNNZ2Xa2hNwxJ4rfGQHyTbdg5pcpM4FqUy8sawQ=",
+        "image": "https://cdn.pixabay.com/photo/2021/07/13/11/34/cat-6463284_640.jpg",
+        "likes": 112,
+        "comments": 12,
+        "description": "Cats are known for their playful nature and love for napping."
+    },
+    {
+        "id": "dew2",
+        "userName": "alex02",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_YslxjZc0j7wmiXw44hVIIvVZLccGv9yB2g&s",
+        "image": "https://cdn.pixabay.com/photo/2018/10/01/09/21/pets-3715733_640.jpg",
+        "likes": 112,
+        "comments": 12,
+        "description": "Dogs are loyal companions and great protectors of their families."
+    },
+    {
+        "id": "dew2",
+        "userName": "alex02",
+        "avatarUrl": "https://media.istockphoto.com/id/102716889/photo/side-view-of-maine-coon-sitting-and-looking-away.jpg?s=612x612&w=0&k=20&c=VdLZVNNZ2Xa2hNwxJ4rfGQHyTbdg5pcpM4FqUy8sawQ=",
+        "image": "https://cdn.pixabay.com/photo/2021/07/13/11/34/cat-6463284_640.jpg",
+        "likes": 112,
+        "comments": 12,
+        "description": "Hamsters are small, cute pets that love to run on wheels."
+    },
+    {
+        "id": "dew2",
+        "userName": "alex02",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_YslxjZc0j7wmiXw44hVIIvVZLccGv9yB2g&s",
+        "image": "https://cdn.pixabay.com/photo/2023/01/10/16/23/hedgehog-7710053_640.jpg",
+        "likes": 112,
+        "comments": 12,
+        "description": "Parrots can mimic sounds and are known for their intelligence."
+    },
+    {
+        "id": "dew2",
+        "userName": "alex02",
+        "avatarUrl": "https://media.istockphoto.com/id/102716889/photo/side-view-of-maine-coon-sitting-and-looking-away.jpg?s=612x612&w=0&k=20&c=VdLZVNNZ2Xa2hNwxJ4rfGQHyTbdg5pcpM4FqUy8sawQ=",
+        "image": "https://cdn.pixabay.com/photo/2021/07/13/11/34/cat-6463284_640.jpg",
+        "likes": 112,
+        "comments": 12,
+        "description": "Goldfish are low-maintenance pets that bring color to any home."
+    },
+    {
+        "id": "dew2",
+        "userName": "alex02",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_YslxjZc0j7wmiXw44hVIIvVZLccGv9yB2g&s",
+        "image": "https://cdn.pixabay.com/photo/2018/10/01/09/21/pets-3715733_640.jpg",
+        "likes": 112,
+        "comments": 12,
+        "description": "Rabbits are social animals that enjoy hopping around and exploring."
+    },
+    {
+        "id": "dew2",
+        "userName": "alex02",
+        "avatarUrl": "https://media.istockphoto.com/id/102716889/photo/side-view-of-maine-coon-sitting-and-looking-away.jpg?s=612x612&w=0&k=20&c=VdLZVNNZ2Xa2hNwxJ4rfGQHyTbdg5pcpM4FqUy8sawQ=",
+        "image": "https://cdn.pixabay.com/photo/2021/07/13/11/34/cat-6463284_640.jpg",
+        "likes": 112,
+        "comments": 12,
+        "description": "Ferrets are curious creatures that love to explore their surroundings."
+    },
+    {
+        "id": "dew2",
+        "userName": "alex02",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_YslxjZc0j7wmiXw44hVIIvVZLccGv9yB2g&s",
+        "image": "https://cdn.pixabay.com/photo/2023/01/10/16/23/hedgehog-7710053_640.jpg",
+        "likes": 112,
+        "comments": 12,
+        "description": "Turtles are gentle reptiles that can live for many years."
+    },
+    {
+        "id": "dew2",
+        "userName": "alex02",
+        "avatarUrl": "https://media.istockphoto.com/id/102716889/photo/side-view-of-maine-coon-sitting-and-looking-away.jpg?s=612x612&w=0&k=20&c=VdLZVNNZ2Xa2hNwxJ4rfGQHyTbdg5pcpM4FqUy8sawQ=",
+        "image": "https://cdn.pixabay.com/photo/2021/07/13/11/34/cat-6463284_640.jpg",
+        "likes": 112,
+        "comments": 12,
+        "description": "Chinchillas have soft fur and are known for their playful behavior."
+    },
+    {
+        "id": "dew2",
+        "userName": "alex02",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_YslxjZc0j7wmiXw44hVIIvVZLccGv9yB2g&s",
+        "image": "https://cdn.pixabay.com/photo/2018/10/01/09/21/pets-3715733_640.jpg",
+        "likes": 112,
+        "comments": 12,
+        "description": "Snakes are fascinating creatures with unique patterns and behaviors."
+    }
+]
+
+
+    
+    
+}

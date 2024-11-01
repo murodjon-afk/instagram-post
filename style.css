@@ -149,9 +149,8 @@ justify-content: center;
   font-size: larger;
   margin: 15px;
   margin-top: 10px;
-  background-color: grey;
-  height: 30px;
-  border-radius: 10px;
+  color: white;
+
 }
 
 .post__item{
@@ -183,3 +182,66 @@ justify-content: center;
   border-radius: 50%;
   margin: 10px;
 }
+
+
+.like-btn{
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-bottom: 180px;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbeaBRly4yzdQpH_GD3eZWjN6cy7L0nqku0yXoZY7TXLr3M1C_mCmEWjR03LVkyueL1Y&usqp=CAU);
+ background-repeat: no-repeat;
+ background-size: cover;
+ position: relative;
+left: 40px;
+
+}
+
+.coment-btn{
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-bottom: 115px;
+  background-image: url(https://icons.veryicon.com/png/o/hardware/jackdizhu_pc/comment-25.png);
+ background-size: cover;
+  margin-right: 10px;
+}
+
+.likes{
+color: white;
+position: relative;
+left: 40px;
+}
+
+.comentary{
+  color: white;
+}
+
+.modal {
+  display: none; 
+  position: fixed;
+  top: 200px;
+  left: 550px;
+  width: 400px;
+  height: 700px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: 100% ,100%;
+  border-radius: 10px;
+}
+
+.closeModal{
+  width: 50px;
+  height: 30px;
+  color: white;
+  background-color: black;
+  border: none;
+  border-radius: 5px;
+}
+
