@@ -32,12 +32,19 @@ export function postUser(item) {
 
    likes.onclick = () => {
     like.innerHTML++;
+    
    }
 
    containerLike.append(like,likes)
    countComent.append(comentary , coments)
     postBox.append(imageBox)
     imageBox.append(image , p , containerLike , countComent )
+
+
+    image.onclick = () => {
+        window.location.href ="/profile.html";
+        localStorage.setItem("userId", JSON.stringify(item))
+    }
  
     return postBox
 }

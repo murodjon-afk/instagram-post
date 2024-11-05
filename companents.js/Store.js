@@ -10,7 +10,7 @@ export function Story(item) {
    image.style.cursor = 'pointer';
     image.setAttribute("src", item.avatarUrl)
     p.textContent = item.userName
-
+ 
     p.classList.add('user-text')
 
     story.classList.add("story__item")
