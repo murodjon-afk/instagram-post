@@ -6,6 +6,7 @@ export function Story(item) {
     let modal = document.querySelector('.modal')
     let close = document.querySelector('.closeModal')
   
+  
  
    image.style.cursor = 'pointer';
     image.setAttribute("src", item.avatarUrl)
@@ -25,6 +26,10 @@ export function Story(item) {
         modal.style.display = 'none';
        
     };
+
+   
+
+
 
     
     

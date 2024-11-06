@@ -35,6 +35,8 @@ export function postUser(item) {
     
    }
 
+ 
+
    containerLike.append(like,likes)
    countComent.append(comentary , coments)
     postBox.append(imageBox)
